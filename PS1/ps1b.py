@@ -44,7 +44,7 @@ def dp_make_weight(egg_weights, target_weight, memo = {}):
     eq = stri + '=' +'99'
     
         
-    return num,eq
+    return num
     
    
 
